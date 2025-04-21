@@ -1,4 +1,4 @@
-# sensors/motion_sensor.py
+# This file is part of the Smart Home Automation project.
 
 class MotionSensor:
     def __init__(self, hub):
