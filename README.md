@@ -1,0 +1,1 @@
+system where devices (lights, thermostat, alarm, phone dialer) interact through a Central Hub (Mediator). When a sensor (e.g., motion, smoke) detects an event, it triggers a Chain of Responsibility to handle that event through a sequence of devices.
