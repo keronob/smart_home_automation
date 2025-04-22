@@ -1,0 +1,193 @@
+[
+    {
+        "type": "motion",
+        "location": "Living Room",
+        "timestamp": "2025-04-22T02:32:25.579117"
+    },
+    {
+        "device": "living_room_light",
+        "action": "Light turned on due to motion",
+        "timestamp": "2025-04-22T02:32:25.579117",
+        "details": {
+            "brightness": 100,
+            "location": "Living Room"
+        }
+    },
+    {
+        "type": "smoke",
+        "location": "Kitchen",
+        "escalate": true,
+        "timestamp": "2025-04-22T02:32:25.580624"
+    },
+    {
+        "type": "motion",
+        "location": "Living Room",
+        "timestamp": "2025-04-22T02:32:38.092591"
+    },
+    {
+        "device": "living_room_light",
+        "action": "Light turned on due to motion",
+        "timestamp": "2025-04-22T02:32:38.093592",
+        "details": {
+            "brightness": 100,
+            "location": "Living Room"
+        }
+    },
+    {
+        "type": "smoke",
+        "location": "Kitchen",
+        "escalate": true,
+        "timestamp": "2025-04-22T02:32:38.093592"
+    },
+    {
+        "type": "motion",
+        "location": "Living Room",
+        "timestamp": "2025-04-22T02:32:56.744600"
+    },
+    {
+        "device": "living_room_light",
+        "action": "Light turned on due to motion",
+        "timestamp": "2025-04-22T02:32:56.745599",
+        "details": {
+            "brightness": 100,
+            "location": "Living Room"
+        }
+    },
+    {
+        "type": "smoke",
+        "location": "Kitchen",
+        "escalate": true,
+        "timestamp": "2025-04-22T02:32:56.745599"
+    },
+    {
+        "type": "motion",
+        "location": "Living Room",
+        "timestamp": "2025-04-22T02:43:39.531717"
+    },
+    {
+        "device": "living_room_light",
+        "action": "Light turned on due to motion",
+        "timestamp": "2025-04-22T02:43:39.532717",
+        "details": {
+            "brightness": 100,
+            "location": "Living Room"
+        }
+    },
+    {
+        "type": "motion",
+        "location": "Living Room",
+        "timestamp": "2025-04-22T02:45:38.668949"
+    },
+    {
+        "device": "living_room_light",
+        "action": "Light turned on due to motion",
+        "timestamp": "2025-04-22T02:45:38.668949",
+        "details": {
+            "brightness": 100,
+            "location": "Living Room"
+        }
+    },
+    {
+        "device": "alarm",
+        "action": "Alarm Auto Armed",
+        "timestamp": "2025-04-22T02:45:38.669949",
+        "details": {
+            "event_type": "motion",
+            "location": "Living Room"
+        }
+    },
+    {
+        "device": "alarm",
+        "action": "Alarm Triggered",
+        "timestamp": "2025-04-22T02:45:38.669949",
+        "details": {
+            "event_type": "motion",
+            "location": "Living Room"
+        }
+    },
+    {
+        "type": "smoke",
+        "location": "Kitchen",
+        "escalate": true,
+        "timestamp": "2025-04-22T02:45:38.670948"
+    },
+    {
+        "device": "alarm",
+        "action": "Alarm Triggered",
+        "timestamp": "2025-04-22T02:45:38.670948",
+        "details": {
+            "event_type": "smoke",
+            "location": "Kitchen"
+        }
+    },
+    {
+        "type": "motion",
+        "location": "Living Room",
+        "timestamp": "2025-04-22T02:46:37.210646"
+    },
+    {
+        "device": "living_room_light",
+        "action": "Light turned on due to motion",
+        "timestamp": "2025-04-22T02:46:37.211658",
+        "details": {
+            "brightness": 100,
+            "location": "Living Room"
+        }
+    },
+    {
+        "device": "alarm",
+        "action": "Alarm Auto Armed",
+        "timestamp": "2025-04-22T02:46:37.211658",
+        "details": {
+            "event_type": "motion",
+            "location": "Living Room"
+        }
+    },
+    {
+        "type": "motion",
+        "location": "Living Room",
+        "timestamp": "2025-04-22T02:51:18.321661"
+    },
+    {
+        "device": "living_room_light",
+        "action": "Light turned on due to motion",
+        "timestamp": "2025-04-22T02:51:18.322656",
+        "details": {
+            "brightness": 100,
+            "location": "Living Room"
+        }
+    },
+    {
+        "device": "alarm",
+        "action": "Alarm Auto Armed",
+        "timestamp": "2025-04-22T02:51:18.322656",
+        "details": {
+            "event_type": "motion",
+            "location": "Living Room"
+        }
+    },
+    {
+        "device": "alarm",
+        "action": "Alarm Triggered",
+        "timestamp": "2025-04-22T02:51:18.323658",
+        "details": {
+            "event_type": "motion",
+            "location": "Living Room"
+        }
+    },
+    {
+        "type": "smoke",
+        "location": "Kitchen",
+        "escalate": true,
+        "timestamp": "2025-04-22T02:51:18.323658"
+    },
+    {
+        "device": "alarm",
+        "action": "Alarm Triggered",
+        "timestamp": "2025-04-22T02:51:18.324743",
+        "details": {
+            "event_type": "smoke",
+            "location": "Kitchen"
+        }
+    }
+]
